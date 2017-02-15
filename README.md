@@ -1,6 +1,6 @@
 # assignment2.5
 
-1.Explain what is a cluster and what is a hadoop cluster
+Q1.Explain what is a cluster and what is a hadoop cluster
 
 Cluster: Normally any set of loosely connected or tightly connected computers that work together as a single system is called Cluster. In simple words, a computer cluster used for Hadoop is called Hadoop Cluster.
 
@@ -31,7 +31,7 @@ Slaves:
 Slave nodes are the majority of machines in Hadoop Cluster and are responsible to Store the data Process the computation
 
 
-2.What is meant by a Rack and explain the rack arrangement in a hadoop cluster
+Q2.What is meant by a Rack and explain the rack arrangement in a hadoop cluster
 
  Hadoop has two major components build with. They are namely
 
